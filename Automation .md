@@ -1,3 +1,4 @@
+## SHOWCASING MY AUTOMATION SKILLS: THE PREMEABLE.
 My automation is about a problem i encountered always when i wanted to see the members in the same group repository and to display there class repositories since i wanted to know how they were doing and to keep up with my class members . so i was inspired to create an automation code to help me display members in my class repository and also display there repositories .
 import requests
 
