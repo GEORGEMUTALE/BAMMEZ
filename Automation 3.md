@@ -1,11 +1,11 @@
 # Week 3 
 During this week i wanted to create a simple feeling bot where one would feed in his her feeling then it reponds with an encouragement quote . After the previous weeks of running 
-automations which i thought were cool yet they  were against the terms of Git hub ,i had to think outside the box and work on something cool and befinicial to the society this is just 
+automations which i thought were cool yet they  were against the terms of Git hub, I had to think outside the box and work on something cool and befinicial to the society this is just 
 a simply bot but really nice . 
 # First 
 
-i used the get_support_quote  which is a function that takes a feeling as input and returns a corresponding support quote. 
-This function uses a dictionary (quotes) to map different feelings to their associated quotes.And just like that i used the quotes i wanted to feed into my system
+I used the get_support_quote  which is a function that takes a feeling as input and returns a corresponding support quote. 
+This function uses a dictionary (quotes) to map different feelings to their associated quotes.And just like that I used the quotes i wanted to feed into my system
 
 def get_support_quote(feeling):
     
@@ -47,7 +47,7 @@ def interactive_support_bot():
     print("Support Bot: " + get_support_quote(user_input))
     
 # Lastly 
-i called the interractive support since the system was supposed to run main
+I called the interractive support since the system was supposed to run main
 
     if __name__ == "__main__":
         interactive_support_bot()
